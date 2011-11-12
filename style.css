@@ -267,12 +267,11 @@ p.tags {
 }
 
 .box-right li {
-	display: inline; /* white space bug IE6 */
 	font-weight: normal;
-}
+	display: block;
+	padding: 5px;
+	border-bottom: 1px solid #dedede;
 
-.box-right li.cat-item {
-	border-border: 1px solid #dedede;
 }
 
 .box-right li a {
