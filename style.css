@@ -271,11 +271,13 @@ p.tags {
 	font-weight: normal;
 }
 
+.box-right li.cat-item {
+	border-border: 1px solid #dedede;
+}
+
 .box-right li a {
-	display: block;
 	margin: 0px;
 	padding: 5px;
-	border-bottom: 1px solid #dedede;
 	text-decoration: none;
 }
 
