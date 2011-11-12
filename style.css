@@ -232,14 +232,12 @@ h4 {
 	background: #fff url(img/bg-meta.gif) repeat-x left top;
 	color: #5e5e5e;
 	font-size: 10px;
-	text-transform: uppercase;
 	padding-top: 10px;
 	padding-bottom: 10px;
 }
 
 .meta-date {
 	padding: 10px 10px 10px 0px;
-	text-transform: uppercase;
 	font-size: 10px;
 }
 
@@ -255,13 +253,11 @@ h4 {
 
 p.tags {
 	clear: both;
-	text-transform: uppercase;
 	font-size: 10px;
 }
 
 .box-right {
 	margin: 0 20px 40px 0;
-	text-transform: uppercase;
 }
 
 .box-right ul {
@@ -378,7 +374,6 @@ p.tags {
 	border-top-width: 5px;
 	border-top-style: solid;
 	border-top-color: #F2F2F2;
-	text-transform: uppercase;
 	background-image: url(img/header-back.jpg);
 }
 
