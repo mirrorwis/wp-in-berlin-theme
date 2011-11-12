@@ -280,7 +280,7 @@ p.tags {
 	text-decoration: none;
 }
 
-.box-right li a:hover {
+.box-right li:hover {
 	background: #f7f7f7;
 }
 
