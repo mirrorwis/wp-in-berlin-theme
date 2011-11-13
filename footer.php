@@ -1,7 +1,7 @@
 <div id="footer">
 	
 	<div id="legal">
-		Copyright &copy; 2009 <a href="<?php bloginfo('url'); ?>"><?php bloginfo('name'); ?></a> | 
+		Copyright &copy; 2011 <a href="<?php bloginfo('url'); ?>"><?php bloginfo('name'); ?></a> | 
 		Powered by <a href="http://wordpress.org">WordPress</a>
 	</div>
 		
