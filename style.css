@@ -352,6 +352,7 @@ p.tags {
 	background: #fff url(img/bg-form-text.gif) repeat-x left top;
 	border: 1px solid #dadada;
 	color: #5e5e5e;
+	font-size: 1.2em;
 }
 
 #searchform #search-submit {
