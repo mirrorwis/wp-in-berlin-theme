@@ -17,12 +17,11 @@
 				<div class="clear"></div>
 				
 				<?php wp_link_pages('before=<div class="nav_link">&after=</div>&next_or_number=number&pagelink=<span class="page_number">%</span>'); ?>
-				
+				<?php the_tags('<p class="tags">TAGS: ', ', ', '</p>'); ?>
 				
 				<div class="meta">
 					<span class="meta-date"><?php the_time('l, F jS, Y'); ?></span>
 					<span class="meta-categories"><?php the_category(', '); ?></span>
-					<span class="meta-date"><?php the_tags('<p class="tags">TAGS: ', ', ', '</p>'); ?></span>
 				</div>
 			
 				<div class="clear"></div>
