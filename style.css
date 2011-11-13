@@ -42,13 +42,12 @@ blockquote {
 	width: 960px;
 	margin: 0 auto;
 	padding: 40px 0 40px 0;
-	font:normal 1.2em/1.6em Arial, sans-serif;
-	color: #666666;
+	font:normal 1.4em/1.6em Arial, sans-serif;
+	color: #333333;
 }
 
 
 #wrap a {
-
 	color: #666666;
 }
 
@@ -101,7 +100,7 @@ h1 {
 	padding: 0px;
 	line-height: 1;
 	font-size: 40px;
-	color: #000000;
+	color: #333333;
 }
 
 h1 a {
@@ -118,7 +117,7 @@ h2#blog-description {
 	font-size: 14px;
 	text-transform: none;
 	letter-spacing: 3px;
-	color: #000000;
+	color: #333333;
 }
 
 h2 {
@@ -142,7 +141,7 @@ h3 a:hover {
 h4 {
 	margin: 0 0 10px 0;
 	font-size: 18px;
-	color: #666666;
+	color: #333333;
 }
 	
 #header ul {
@@ -169,6 +168,7 @@ h4 {
 	float: left;
 	margin: 0 2px 0 0;
 	padding: 0px;
+	text-transform: uppercase;
 }
 
 #header li#first {
