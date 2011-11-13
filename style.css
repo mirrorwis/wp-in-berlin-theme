@@ -1,4 +1,4 @@
-/*
+ /*
 Theme Name: in-berlin
 Theme URI: http://develnet.org/online/in-berlin
 Description: Clean grey and red Theme<a href="http://develnet.org">develnet</a>
@@ -112,14 +112,13 @@ h2#blog-description {
 	position: absolute;
 	bottom: 67px;
 	left: 18px;
-	margin: 4px;
+	margin: 10px;
 	padding: 4px;
 	font:normal 1.0em/1.0em Arial, sans-serif;
 	font-size: 14px;
 	text-transform: none;
 	letter-spacing: 3px;
-	background-color: #660000;
-	color: #FFFFFF;
+	color: #000000;
 }
 
 h2 {
