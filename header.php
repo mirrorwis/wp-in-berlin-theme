@@ -35,7 +35,7 @@
 	<h2 id="blog-description"><?php bloginfo('description'); ?></h2>
 
 	<ul id="menu">
-	
+		<li class="page_item page-item-0"><a href="http://yaoyuan.me" title="Home">Home</a></li>
 		<?php wp_list_pages('title_li=&depth=1'); ?>
 	</ul>
 	
