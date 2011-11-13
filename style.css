@@ -42,21 +42,18 @@ blockquote {
 	width: 960px;
 	margin: 0 auto;
 	padding: 40px 0 40px 0;
-	font:normal 1.4em/1.6em Arial, sans-serif;
+	font:normal 1.2em/1.6em Arial, sans-serif;
 	color: #333333;
 }
 
 
 #wrap a {
-	color: #666666;
+	color: #333333;
 }
 
 #wrap a:hover {
-
-	
 	text-decoration:none;
 }
-
 
 #header-top {
 	height: 30px;
@@ -184,8 +181,8 @@ h4 {
 	background: url(img/bg-menu-a.gif) no-repeat right top;
 	text-decoration: none;
 	text-align: center;
-	color:#FFFFFF;
-	padding-top: 9px;
+	color:#CCCCCC;
+	padding-top: 7px;
 	padding-right: 10px;
 	padding-bottom: 0;
 	padding-left: 5px;
